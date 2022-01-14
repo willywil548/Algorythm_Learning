@@ -1,0 +1,8 @@
+C:\Users\rober\source\repos\CodeDevInterview-framework\bin\x64\Debug\CodeDevInterview-framework.exe.config
+C:\Users\rober\source\repos\CodeDevInterview-framework\bin\x64\Debug\CodeDevInterview-framework.exe
+C:\Users\rober\source\repos\CodeDevInterview-framework\bin\x64\Debug\CodeDevInterview-framework.pdb
+C:\Users\rober\source\repos\CodeDevInterview-framework\obj\x64\Debug\CodeDevInterview-framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\source\repos\CodeDevInterview-framework\obj\x64\Debug\CodeDevInterview-framework.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\CodeDevInterview-framework\obj\x64\Debug\CodeDevInterview-framework.exe
+C:\Users\rober\source\repos\CodeDevInterview-framework\obj\x64\Debug\CodeDevInterview-framework.pdb
+C:\Users\rober\source\repos\CodeDevInterview-framework\obj\x64\Debug\CodeDevInterview-framework.csproj.AssemblyReference.cache
